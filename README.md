@@ -1,6 +1,6 @@
 # aisona-lab
 
-AI engineer building **deterministic harnesses** around agents — not better vibes.
+AI engineer building **deterministic harnesses** around agents.
 
 ## Thesis → trailer
 
