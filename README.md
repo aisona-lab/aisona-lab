@@ -23,12 +23,8 @@ Related: [skill-guard](https://github.com/aisona-lab/skill-guard) — static pre
 
 Short loop from each repo's `LEARNINGS.md`: **SPEC → PLAN → OK → smallest unit → prove with a command → merge → clean tree.** No invented precision.
 
-## Profile pins
-
-Pinned on the profile (set in GitHub UI — public API has no `updateProfilePins` for this token):
+## Start here
 
 1. [agent-action-gate](https://github.com/aisona-lab/agent-action-gate)
 2. [lazycoder](https://github.com/aisona-lab/lazycoder)
 3. [skill-guard](https://github.com/aisona-lab/skill-guard) *(optional)*
-
-**UI:** Profile → Customize your pins → select the repos above.
